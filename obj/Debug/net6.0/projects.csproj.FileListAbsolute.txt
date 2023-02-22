@@ -1,0 +1,15 @@
+C:\Users\Raymond Pang\projects\bin\Debug\net6.0\projects.exe
+C:\Users\Raymond Pang\projects\bin\Debug\net6.0\projects.deps.json
+C:\Users\Raymond Pang\projects\bin\Debug\net6.0\projects.runtimeconfig.json
+C:\Users\Raymond Pang\projects\bin\Debug\net6.0\projects.dll
+C:\Users\Raymond Pang\projects\bin\Debug\net6.0\projects.pdb
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\projects.csproj.AssemblyReference.cache
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\projects.AssemblyInfoInputs.cache
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\projects.AssemblyInfo.cs
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\projects.csproj.CoreCompileInputs.cache
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\projects.dll
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\refint\projects.dll
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\projects.pdb
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\projects.genruntimeconfig.cache
+C:\Users\Raymond Pang\projects\obj\Debug\net6.0\ref\projects.dll
